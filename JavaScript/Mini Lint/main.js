@@ -37,3 +37,4 @@ const multiprint = (par1, par2, par3) => {
 multiprint(betterWords.length, sentenceCount, wordCount.length)
 
 console.log(betterWords.join(' '))
+

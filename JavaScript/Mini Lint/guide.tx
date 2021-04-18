@@ -5,7 +5,6 @@ This is the same type of work that word processing software does. Additionally, 
 
 In the code editor, there is a string called story. We want to gather some information about the individual words and sentences in the string. Let’s split the string into individual words and save them in a new array called storyWords.
 
-
 2.
 Log how many words there are in this story to the console.
 
